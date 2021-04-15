@@ -1,0 +1,13 @@
+E:\Projects\Prework\strings\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+E:\Projects\Prework\strings\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+E:\Projects\Prework\strings\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+E:\Projects\Prework\strings\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+E:\Projects\Prework\strings\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+E:\Projects\Prework\strings\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+E:\Projects\Prework\strings\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
