@@ -1,0 +1,13 @@
+E:\Projects\Prework\Branching and loops\bin\Debug\netcoreapp3.1\Branching and loops.exe
+E:\Projects\Prework\Branching and loops\bin\Debug\netcoreapp3.1\Branching and loops.deps.json
+E:\Projects\Prework\Branching and loops\bin\Debug\netcoreapp3.1\Branching and loops.runtimeconfig.json
+E:\Projects\Prework\Branching and loops\bin\Debug\netcoreapp3.1\Branching and loops.runtimeconfig.dev.json
+E:\Projects\Prework\Branching and loops\bin\Debug\netcoreapp3.1\Branching and loops.dll
+E:\Projects\Prework\Branching and loops\bin\Debug\netcoreapp3.1\Branching and loops.pdb
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.AssemblyInfoInputs.cache
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.AssemblyInfo.cs
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.csproj.CoreCompileInputs.cache
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.dll
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.pdb
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.genruntimeconfig.cache
+E:\Projects\Prework\Branching and loops\obj\Debug\netcoreapp3.1\Branching and loops.csprojAssemblyReference.cache
