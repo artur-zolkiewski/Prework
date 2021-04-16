@@ -1,0 +1,13 @@
+E:\Projects\Prework\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+E:\Projects\Prework\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+E:\Projects\Prework\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+E:\Projects\Prework\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+E:\Projects\Prework\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+E:\Projects\Prework\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+E:\Projects\Prework\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
